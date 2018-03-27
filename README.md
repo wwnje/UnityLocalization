@@ -4,4 +4,4 @@ Localization
 
 Multilingual editor
 
-![show](\_img\show.png)
+![show](/_img/show.png)
