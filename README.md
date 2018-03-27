@@ -4,4 +4,4 @@ Localization
 
 Multilingual editor
 
-![show](E:\UnityLocalization\_img\show.png)
+![show](\_img\show.png)
